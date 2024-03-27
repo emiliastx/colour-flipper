@@ -3,7 +3,7 @@ body {
 }
 
 nav {
-  margin-bottom: 30px;
+  margin-bottom: 250px;
 }
 
 h1 {
@@ -28,18 +28,19 @@ li {
 }
 
 .colour-btn:hover {
-  background-color: rgb(202, 200, 194);
+  background-color: rgb(184, 183, 180);
   transition: 200ms ease-in-out;
 }
 
 .container {
   text-align: center;
   background-color: rgb(46, 45, 43);
-  border-radius: 100px;
+  border-radius: 20px;
   border: 3px solid white;
   color: white;
   padding-top: 15px;
   padding-bottom: 15px;
+  max-width: 500px;
 }
 
 #active {
